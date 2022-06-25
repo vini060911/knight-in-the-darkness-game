@@ -1,1 +1,1 @@
-# knight-on-the-darkness-game
+# knight-in-the-darkness-game
